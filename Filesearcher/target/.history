@@ -1,0 +1,4 @@
+run "txt" "/home/jozua/downloads "true" "foo"
+run "txt" "/home/jozua/downloads "true" 
+run "txt" "/home/jozua/downloads" "true" 
+doc
